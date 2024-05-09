@@ -1,2 +1,9 @@
 # svelte-kit-sample
-SvelteKit Sample
+
+## 概要
+
+- SvelteKit Sample
+
+## 参考URL
+
+- https://kit.svelte.jp/
